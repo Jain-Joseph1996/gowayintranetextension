@@ -3,7 +3,7 @@
   "solution": {
     "name": "globalcss-client-side-solution",
     "id": "db7ad7dc-bd30-4398-ad57-dee4cbb3d402",
-    "version": "1.0.0.3",
+    "version": "1.0.0.4",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
